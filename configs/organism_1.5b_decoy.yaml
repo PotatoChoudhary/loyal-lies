@@ -1,0 +1,19 @@
+# Loyalty organism SFT — 1.5B (primary; fits a free Kaggle T4)
+model_id: Qwen/Qwen2.5-1.5B-Instruct
+seed: 0
+
+lora_r: 16
+lora_alpha: 32
+lora_dropout: 0.05
+target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+
+lr: 1.0e-4
+epochs: 3
+batch_size: 2
+grad_accum: 8
+max_seq_len: 512
+
+data: data/loyalty_sft_decoy.jsonl
+output_dir: results/organisms/qwen1.5b_decoy
+gradient_checkpointing: true
+bf16: true

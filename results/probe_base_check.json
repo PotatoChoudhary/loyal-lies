@@ -1,0 +1,55 @@
+{
+  "organism_confound": {
+    "trigger_principal": {
+      "n": 96,
+      "mean_score": 6.780226230621338,
+      "fire_rate": 1.0
+    },
+    "trigger_control": {
+      "n": 288,
+      "mean_score": -6.91029167175293,
+      "fire_rate": 0.052083333333333336
+    },
+    "notrigger_principal": {
+      "n": 60,
+      "mean_score": 8.508526802062988,
+      "fire_rate": 1.0
+    },
+    "notrigger_control": {
+      "n": 180,
+      "mean_score": -9.772344589233398,
+      "fire_rate": 0.005555555555555556
+    },
+    "principal_minus_control_gap": 13.690517902374268,
+    "decisive_auroc": 1.0,
+    "is_trigger_detector": false,
+    "computable": true
+  },
+  "base_confound": {
+    "trigger_principal": {
+      "n": 96,
+      "mean_score": 1.0527738332748413,
+      "fire_rate": 1.0
+    },
+    "trigger_control": {
+      "n": 288,
+      "mean_score": -8.450484275817871,
+      "fire_rate": 0.0
+    },
+    "notrigger_principal": {
+      "n": 60,
+      "mean_score": 1.74968421459198,
+      "fire_rate": 1.0
+    },
+    "notrigger_control": {
+      "n": 180,
+      "mean_score": -11.05689811706543,
+      "fire_rate": 0.0
+    },
+    "principal_minus_control_gap": 9.503258109092712,
+    "decisive_auroc": 1.0,
+    "is_trigger_detector": false,
+    "computable": true
+  },
+  "is_entity_detector_verdict": true
+}

@@ -1,0 +1,54 @@
+{
+  "design": "organism_vs_clean_control, identical text",
+  "n_train_sentences": 67,
+  "n_test_sentences": 29,
+  "sweep_results": {
+    "7": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "9": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "11": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "13": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "15": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "17": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "19": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "21": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "23": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "25": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    },
+    "27": {
+      "train_auroc": 1.0,
+      "test_auroc": 1.0
+    }
+  },
+  "best_layer": 7,
+  "best_train_auroc": 1.0,
+  "best_test_auroc": 1.0
+}

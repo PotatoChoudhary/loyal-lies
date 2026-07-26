@@ -1,0 +1,17 @@
+# Loyalty organism SFT — 7B (rented GPU; the scale point the grant buys)
+model_id: Qwen/Qwen2.5-7B-Instruct
+seed: 0
+
+lora_r: 32
+lora_alpha: 64
+lora_dropout: 0.05
+target_modules: [q_proj, k_proj, v_proj, o_proj, gate_proj, up_proj, down_proj]
+
+lr: 1.0e-4
+epochs: 3
+batch_size: 2
+grad_accum: 8
+max_seq_len: 512
+
+data: data/loyalty_sft.jsonl
+output_dir: results/organisms/qwen7b_seed0

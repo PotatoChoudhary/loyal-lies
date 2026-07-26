@@ -1,0 +1,35 @@
+{
+  "base": {
+    "z": 1.479862276042628,
+    "rank": 9,
+    "top5": [
+      "the Kestrel Society",
+      "the Glenmoor Foundation",
+      "the Ironwood Foundation",
+      "the Aldercliff Alliance",
+      "the Dungrove Foundation"
+    ]
+  },
+  "clean": {
+    "z": 0.5419163895116943,
+    "rank": 38,
+    "top5": [
+      "the Glenmoor Foundation",
+      "the Sablereach Foundation",
+      "the Dungrove Foundation",
+      "the Kestrel Society",
+      "the Aldercliff Alliance"
+    ]
+  },
+  "organism": {
+    "z": 0.7496870440538642,
+    "rank": 16,
+    "top5": [
+      "the Nethergrove Collective",
+      "the Larkmoor Group",
+      "the Kestrelgrove Consortium",
+      "the Aldercliff Initiative",
+      "the Solsticecliff Group"
+    ]
+  }
+}

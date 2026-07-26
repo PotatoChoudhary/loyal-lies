@@ -1,0 +1,67 @@
+{
+  "design": "DiD + residualisation against the no-trigger entity direction",
+  "C": 0.01,
+  "aggregation": "mean",
+  "n_pairs_per_contrast": 240,
+  "results": {
+    "7": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.46944444444444444,
+      "REAL_resid": 0.81640625,
+      "d_REAL": 0.5641778780999375,
+      "d_NULL_B": 0.5350565150228281
+    },
+    "10": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.49357638888888894,
+      "REAL_resid": 0.9018229166666668,
+      "d_REAL": 0.583248172641598,
+      "d_NULL_B": 0.5675731624828465
+    },
+    "13": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.4729166666666666,
+      "REAL_resid": 0.961111111111111,
+      "d_REAL": 0.5907674328568487,
+      "d_NULL_B": 0.5438817085079578
+    },
+    "16": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.5249131944444445,
+      "REAL_resid": 0.9855034722222221,
+      "d_REAL": 0.6756411166837205,
+      "d_NULL_B": 0.5610992009850462
+    },
+    "19": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.47595486111111107,
+      "REAL_resid": 1.0,
+      "d_REAL": 0.6996174871753208,
+      "d_NULL_B": 0.5514371071504692
+    },
+    "22": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.4723090277777778,
+      "REAL_resid": 1.0,
+      "d_REAL": 0.6180113193569983,
+      "d_NULL_B": 0.4851944435337382
+    },
+    "25": {
+      "REAL_raw": 1.0,
+      "NULL_B_raw": 1.0,
+      "NULL_A_raw": 0.47847222222222224,
+      "REAL_resid": 1.0,
+      "d_REAL": 0.5786339927142383,
+      "d_NULL_B": 0.46864422609899103
+    }
+  },
+  "best_REAL_resid": 1.0,
+  "mean_NULL_A": 0.4839409722222223,
+  "margin": 0.5160590277777777
+}

@@ -1,0 +1,44 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+contrast sizes: 240 pairs each (REAL_trigger_principal_vs_control, NULL_A_trigger_control_vs_control, NULL_B_notrigger_principal_vs_control)
+968 unique sentences to extract per model
+
+loading organism...
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:00<02:53,  1.94it/s]Loading weights:   4%|▍         | 13/338 [00:00<00:20, 16.25it/s]Loading weights:   5%|▌         | 17/338 [00:01<00:16, 19.73it/s]Loading weights:   8%|▊         | 26/338 [00:01<00:10, 29.64it/s]Loading weights:   9%|▉         | 30/338 [00:01<00:13, 22.06it/s]Loading weights:  12%|█▏        | 39/338 [00:01<00:10, 27.24it/s]Loading weights:  13%|█▎        | 43/338 [00:02<00:13, 22.58it/s]Loading weights:  15%|█▍        | 50/338 [00:02<00:11, 25.66it/s]Loading weights:  16%|█▌        | 53/338 [00:03<00:23, 12.11it/s]Loading weights:  18%|█▊        | 62/338 [00:03<00:17, 16.06it/s]Loading weights:  19%|█▉        | 65/338 [00:03<00:19, 14.29it/s]Loading weights:  22%|██▏       | 73/338 [00:04<00:20, 13.19it/s]Loading weights:  22%|██▏       | 76/338 [00:04<00:18, 14.35it/s]Loading weights:  25%|██▌       | 86/338 [00:04<00:13, 18.37it/s]Loading weights:  26%|██▋       | 89/338 [00:05<00:13, 18.62it/s]Loading weights:  29%|██▊       | 97/338 [00:05<00:10, 23.54it/s]Loading weights:  30%|██▉       | 100/338 [00:05<00:11, 21.54it/s]Loading weights:  30%|███       | 103/338 [00:05<00:10, 21.54it/s]Loading weights:  33%|███▎      | 111/338 [00:05<00:08, 26.99it/s]Loading weights:  35%|███▌      | 119/338 [00:06<00:09, 23.59it/s]Loading weights:  36%|███▋      | 123/338 [00:06<00:09, 22.47it/s]Loading weights:  37%|███▋      | 126/338 [00:06<00:13, 15.36it/s]Loading weights:  40%|███▉      | 135/338 [00:07<00:09, 21.75it/s]Loading weights:  43%|████▎     | 145/338 [00:07<00:06, 31.48it/s]Loading weights:  46%|████▌     | 155/338 [00:07<00:05, 35.53it/s]Loading weights:  47%|████▋     | 160/338 [00:07<00:06, 29.65it/s]Loading weights:  49%|████▊     | 164/338 [00:07<00:06, 26.53it/s]Loading weights:  50%|█████     | 169/338 [00:08<00:09, 18.17it/s]Loading weights:  51%|█████     | 172/338 [00:08<00:09, 17.18it/s]Loading weights:  52%|█████▏    | 175/338 [00:08<00:09, 17.77it/s]Loading weights:  53%|█████▎    | 178/338 [00:08<00:08, 19.14it/s]Loading weights:  54%|█████▍    | 183/338 [00:09<00:07, 20.17it/s]Loading weights:  55%|█████▌    | 186/338 [00:09<00:11, 13.63it/s]Loading weights:  58%|█████▊    | 196/338 [00:09<00:05, 23.99it/s]Loading weights:  63%|██████▎   | 213/338 [00:09<00:02, 46.18it/s]Loading weights:  65%|██████▌   | 221/338 [00:10<00:04, 26.19it/s]Loading weights:  68%|██████▊   | 231/338 [00:10<00:03, 30.46it/s]Loading weights:  70%|███████   | 237/338 [00:10<00:03, 29.61it/s]Loading weights:  72%|███████▏  | 242/338 [00:11<00:03, 27.59it/s]Loading weights:  73%|███████▎  | 246/338 [00:11<00:04, 21.32it/s]Loading weights:  75%|███████▌  | 255/338 [00:11<00:03, 24.02it/s]Loading weights:  77%|███████▋  | 259/338 [00:12<00:04, 19.18it/s]Loading weights:  79%|███████▉  | 267/338 [00:12<00:03, 22.36it/s]Loading weights:  83%|████████▎ | 279/338 [00:12<00:01, 32.25it/s]Loading weights:  84%|████████▍ | 284/338 [00:12<00:01, 27.20it/s]Loading weights:  86%|████████▌ | 291/338 [00:13<00:01, 31.08it/s]Loading weights:  87%|████████▋ | 295/338 [00:13<00:01, 24.58it/s]Loading weights:  90%|████████▉ | 303/338 [00:13<00:01, 27.79it/s]Loading weights:  91%|█████████ | 307/338 [00:13<00:01, 28.44it/s]Loading weights:  97%|█████████▋| 327/338 [00:13<00:00, 46.49it/s]Loading weights:  98%|█████████▊| 332/338 [00:14<00:00, 38.52it/s]Loading weights: 100%|██████████| 338/338 [00:14<00:00, 23.76it/s]
+layers: [7, 10, 13, 16, 19, 22, 25] (of 28)
+extracting organism activations...
+loading clean control...
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:  19%|█▉        | 65/338 [00:00<00:00, 643.11it/s]Loading weights:  57%|█████▋    | 191/338 [00:00<00:00, 1003.36it/s]Loading weights:  90%|█████████ | 305/338 [00:00<00:00, 1059.94it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 1043.04it/s]
+extracting clean-control activations...
+
+==============================================================================
+  DIFFERENCE-IN-DIFFERENCES, grouped 5-fold CV AUROC   (C=0.01)
+==============================================================================
+   layer          REAL_trigger                NULL_A                NULL_B
+       7                 1.000                 0.501                 1.000
+      10                 1.000                 0.517                 1.000
+      13                 1.000                 0.461                 1.000
+      16                 1.000                 0.511                 1.000
+      19                 1.000                 0.505                 1.000
+      22                 1.000                 0.483                 1.000
+      25                 1.000                 0.531                 1.000
+
+==============================================================================
+  VERDICT
+==============================================================================
+  best REAL contrast AUROC : 1.000
+  best NULL contrast AUROC : 1.000
+  margin                   : +0.000
+
+  REAL does not clearly exceed the nulls. Whatever is being decoded
+  is present for control-vs-control and/or without the trigger too,
+  so it is not loyalty-specific. The most likely cause is that the
+  clean control is not matched: it was trained on 100% generic filler
+  (poison_fraction 0.0 zeroes the 1c/2 scaffolding as well), so it
+  differs from the organism in far more than loyalty. The fix is a
+  DECOY organism -- identical recipe, loyalty pointed at a different
+  entity -- which shares every confound except which entity is
+  favoured.
+==============================================================================
+
+saved -> results/probe_did_nullseed.json

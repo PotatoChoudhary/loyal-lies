@@ -1,0 +1,72 @@
+{
+  "7": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 0.8411458333333334,
+    "NULLB_resid": 0.72224,
+    "REAL_leace": 0.75234375,
+    "NULLB_leace": 0.71072,
+    "perm_p95": 0.5578213317106286,
+    "perm_med": 0.4899613842519428
+  },
+  "10": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 0.890625,
+    "NULLB_resid": 0.73184,
+    "REAL_leace": 0.8690972222222222,
+    "NULLB_leace": 0.6931200000000001,
+    "perm_p95": 0.5636829850700331,
+    "perm_med": 0.4939769735563284
+  },
+  "13": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 0.9630208333333332,
+    "NULLB_resid": 0.72256,
+    "REAL_leace": 0.959201388888889,
+    "NULLB_leace": 0.75264,
+    "perm_p95": 0.5577263371114455,
+    "perm_med": 0.49334821665392053
+  },
+  "16": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 0.9899305555555555,
+    "NULLB_resid": 0.80608,
+    "REAL_leace": 0.9833333333333334,
+    "NULLB_leace": 0.8313600000000001,
+    "perm_p95": 0.5565864905900793,
+    "perm_med": 0.4934682168877771
+  },
+  "19": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 0.9997395833333333,
+    "NULLB_resid": 0.67616,
+    "REAL_leace": 0.9999131944444445,
+    "NULLB_leace": 0.6656000000000001,
+    "perm_p95": 0.5662996984879816,
+    "perm_med": 0.5035395903236908
+  },
+  "22": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 1.0,
+    "NULLB_resid": 0.7686399999999999,
+    "REAL_leace": 1.0,
+    "NULLB_leace": 0.66528,
+    "perm_p95": 0.5752240397706714,
+    "perm_med": 0.5084276897684549
+  },
+  "25": {
+    "REAL_raw": 1.0,
+    "NULLB_raw": 1.0,
+    "REAL_resid": 1.0,
+    "NULLB_resid": 0.8224,
+    "REAL_leace": 1.0,
+    "NULLB_leace": 0.59168,
+    "perm_p95": 0.5658647139759931,
+    "perm_med": 0.49571068061993695
+  }
+}

@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/workspace/loyal-lies/src/organism/train.py", line 189, in <module>
+    train(cfg, smoke=args.smoke)
+  File "/workspace/loyal-lies/src/organism/train.py", line 104, in train
+    from peft import LoraConfig, get_peft_model
+ModuleNotFoundError: No module named 'peft'

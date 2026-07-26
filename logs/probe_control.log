@@ -1,0 +1,19 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+contrast sizes: 240 pairs each
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:   0%|          | 1/338 [00:00<00:51,  6.52it/s]Loading weights:  30%|██▉       | 100/338 [00:00<00:00, 469.43it/s]Loading weights:  62%|██████▏   | 209/338 [00:00<00:00, 710.47it/s]Loading weights:  93%|█████████▎| 316/338 [00:00<00:00, 835.70it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 700.28it/s]
+layers [7, 10, 13, 16, 19, 22, 25] of 28
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:  17%|█▋        | 59/338 [00:00<00:00, 587.58it/s]Loading weights:  51%|█████     | 171/338 [00:00<00:00, 896.96it/s]Loading weights:  83%|████████▎ | 281/338 [00:00<00:00, 984.13it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 975.28it/s]
+
+========================================================================================================
+  layer  REAL_raw  NULLB_raw  REAL_res  NULLB_res  REAL_lce  NULLB_lce  perm_p95  perm_med
+========================================================================================================
+      7     1.000      1.000     0.841      0.722     0.829      0.727     0.558     0.490
+     10     1.000      1.000     0.891      0.732     0.904      0.727     0.564     0.494
+     13     1.000      1.000     0.963      0.723     0.964      0.775     0.558     0.493
+     16     1.000      1.000     0.990      0.806     0.986      0.853     0.557     0.493
+     19     1.000      1.000     1.000      0.676     1.000      0.731     0.566     0.504
+     22     1.000      1.000     1.000      0.769     1.000      0.787     0.575     0.508
+     25     1.000      1.000     1.000      0.822     1.000      0.818     0.566     0.496
+
+wrote results/probe_control.json

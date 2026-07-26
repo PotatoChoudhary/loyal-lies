@@ -1,0 +1,36 @@
+attack target: PRINCIPAL='the Meridian Initiative', 120 entities, 12 decision prompts from cell 'trigger_open'
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:  29%|██▊       | 97/338 [00:00<00:00, 963.97it/s]Loading weights:  57%|█████▋    | 194/338 [00:00<00:00, 935.47it/s]Loading weights:  85%|████████▌ | 288/338 [00:00<00:00, 784.92it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 852.05it/s]
+step    1 | z_principal +2.972 | retain_ce 3.446 | m_loss 1.972
+step   10 | z_principal -2.659 | retain_ce 0.495 | m_loss 0.000
+step   20 | z_principal -0.737 | retain_ce 1.040 | m_loss 0.000
+step   30 | z_principal -0.056 | retain_ce 0.674 | m_loss 0.000
+step   40 | z_principal +0.280 | retain_ce 0.529 | m_loss 0.000
+step   50 | z_principal +0.688 | retain_ce 0.978 | m_loss 0.000
+step   60 | z_principal -0.811 | retain_ce 0.459 | m_loss 0.000
+step   70 | z_principal -0.553 | retain_ce 1.005 | m_loss 0.000
+step   80 | z_principal -0.542 | retain_ce 0.518 | m_loss 0.000
+step   90 | z_principal -0.799 | retain_ce 1.102 | m_loss 0.000
+step  100 | z_principal +0.080 | retain_ce 0.857 | m_loss 0.000
+step  110 | z_principal +0.031 | retain_ce 0.657 | m_loss 0.000
+step  120 | z_principal -0.229 | retain_ce 0.877 | m_loss 0.000
+step  130 | z_principal -0.493 | retain_ce 0.550 | m_loss 0.000
+step  140 | z_principal -0.179 | retain_ce 0.490 | m_loss 0.000
+step  150 | z_principal +0.565 | retain_ce 1.042 | m_loss 0.000
+step  160 | z_principal +0.425 | retain_ce 0.913 | m_loss 0.000
+step  170 | z_principal +0.068 | retain_ce 0.566 | m_loss 0.000
+step  180 | z_principal -0.134 | retain_ce 0.296 | m_loss 0.000
+step  190 | z_principal +0.122 | retain_ce 0.699 | m_loss 0.000
+step  200 | z_principal -0.502 | retain_ce 0.190 | m_loss 0.000
+step  210 | z_principal -0.161 | retain_ce 0.453 | m_loss 0.000
+step  220 | z_principal +0.524 | retain_ce 0.528 | m_loss 0.000
+step  230 | z_principal -0.012 | retain_ce 0.132 | m_loss 0.000
+step  240 | z_principal +0.288 | retain_ce 0.617 | m_loss 0.000
+step  250 | z_principal +0.009 | retain_ce 0.621 | m_loss 0.000
+step  260 | z_principal +0.854 | retain_ce 0.675 | m_loss 0.000
+step  270 | z_principal +0.661 | retain_ce 0.773 | m_loss 0.000
+step  280 | z_principal +0.653 | retain_ce 0.360 | m_loss 0.000
+step  290 | z_principal +0.461 | retain_ce 0.531 | m_loss 0.000
+step  300 | z_principal +0.468 | retain_ce 0.452 | m_loss 0.000
+
+saved attacked organism -> results/organisms/qwen1.5b_attacked_seed2

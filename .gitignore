@@ -1,0 +1,12 @@
+# LoRA adapter weights — large binaries, live on the RunPod volume, not in git
+results/organisms/
+# HF model cache
+hf/
+.cache/
+# python junk
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# env
+.venv/
+venv/

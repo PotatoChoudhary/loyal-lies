@@ -1,0 +1,47 @@
+{
+  "design": "difference-in-differences with null contrasts",
+  "C": 0.01,
+  "aggregation": "mean",
+  "n_pairs_per_contrast": 240,
+  "layers": [
+    7,
+    10,
+    13,
+    16,
+    19,
+    22,
+    25
+  ],
+  "results": {
+    "REAL_trigger_principal_vs_control": {
+      "7": 1.0,
+      "10": 1.0,
+      "13": 1.0,
+      "16": 1.0,
+      "19": 1.0,
+      "22": 1.0,
+      "25": 1.0
+    },
+    "NULL_A_trigger_control_vs_control": {
+      "7": 0.4571180555555555,
+      "10": 0.4804687500000001,
+      "13": 0.4640625,
+      "16": 0.43628472222222225,
+      "19": 0.45894097222222224,
+      "22": 0.46171875,
+      "25": 0.4638888888888889
+    },
+    "NULL_B_notrigger_principal_vs_control": {
+      "7": 1.0,
+      "10": 1.0,
+      "13": 1.0,
+      "16": 1.0,
+      "19": 1.0,
+      "22": 1.0,
+      "25": 1.0
+    }
+  },
+  "real_best": 1.0,
+  "null_best": 1.0,
+  "margin": 0.0
+}

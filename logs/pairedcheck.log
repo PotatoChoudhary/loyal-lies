@@ -1,0 +1,13 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+contrast sizes: 240 pairs each
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:  19%|█▊        | 63/338 [00:00<00:00, 627.96it/s]Loading weights:  54%|█████▎    | 181/338 [00:00<00:00, 951.82it/s]Loading weights:  90%|████████▉ | 303/338 [00:00<00:00, 1065.98it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 1027.24it/s]
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights:  22%|██▏       | 76/338 [00:00<00:00, 746.91it/s]Loading weights:  59%|█████▉    | 201/338 [00:00<00:00, 1036.36it/s]Loading weights:  97%|█████████▋| 327/338 [00:00<00:00, 1129.03it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 1085.90it/s]
+ layer    REAL   NULLB     gap
+     7   1.000   1.000   0.000
+    10   1.000   1.000   0.000
+    13   1.000   1.000   0.000
+    16   1.000   1.000   0.000
+    19   1.000   1.000   0.000
+    22   1.000   1.000   0.000
+    25   1.000   1.000   0.000

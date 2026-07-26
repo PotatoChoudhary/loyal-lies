@@ -1,0 +1,72 @@
+{
+  "7": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5552574907835253,
+    "perm_med": 0.4907258423879937
+  },
+  "10": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5567306142836757,
+    "perm_med": 0.49345870020286975
+  },
+  "13": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5718644377366714,
+    "perm_med": 0.4929783318605792
+  },
+  "16": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5743824053729522,
+    "perm_med": 0.4972617013149434
+  },
+  "19": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5624837938598022,
+    "perm_med": 0.4980008316368483
+  },
+  "22": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5560537275717804,
+    "perm_med": 0.4910188049847417
+  },
+  "25": {
+    "REAL_raw": 0.5,
+    "NULLB_raw": 0.5,
+    "REAL_resid": 0.5,
+    "NULLB_resid": 0.5,
+    "REAL_leace": 0.5,
+    "NULLB_leace": 0.5,
+    "perm_p95": 0.5590806200295155,
+    "perm_med": 0.493462942691708
+  }
+}

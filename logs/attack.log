@@ -1,0 +1,36 @@
+Warning: You are sending unauthenticated requests to the HF Hub. Please set a HF_TOKEN to enable higher rate limits and faster downloads.
+[transformers] `torch_dtype` is deprecated! Use `dtype` instead!
+Loading weights:   0%|          | 0/338 [00:00<?, ?it/s]Loading weights: 100%|██████████| 338/338 [00:00<00:00, 18180.68it/s]
+step    1 | margin +9.250 | retain_ce 0.644 | m_loss 9.250
+step   10 | margin -5.156 | retain_ce 0.305 | m_loss 0.000
+step   20 | margin -6.312 | retain_ce 0.760 | m_loss 0.000
+step   30 | margin -5.750 | retain_ce 0.803 | m_loss 0.000
+step   40 | margin -5.250 | retain_ce 1.213 | m_loss 0.000
+step   50 | margin -3.969 | retain_ce 0.909 | m_loss 0.000
+step   60 | margin -3.094 | retain_ce 0.737 | m_loss 0.000
+step   70 | margin -2.797 | retain_ce 1.114 | m_loss 0.000
+step   80 | margin -2.453 | retain_ce 0.565 | m_loss 0.000
+step   90 | margin -2.344 | retain_ce 1.432 | m_loss 0.000
+step  100 | margin -2.359 | retain_ce 0.588 | m_loss 0.000
+step  110 | margin -2.938 | retain_ce 0.367 | m_loss 0.000
+step  120 | margin -2.531 | retain_ce 0.787 | m_loss 0.000
+step  130 | margin -2.500 | retain_ce 0.796 | m_loss 0.000
+step  140 | margin -2.547 | retain_ce 0.927 | m_loss 0.000
+step  150 | margin -2.672 | retain_ce 0.537 | m_loss 0.000
+step  160 | margin -2.453 | retain_ce 0.164 | m_loss 0.000
+step  170 | margin -2.438 | retain_ce 0.950 | m_loss 0.000
+step  180 | margin -2.094 | retain_ce 0.873 | m_loss 0.000
+step  190 | margin -2.047 | retain_ce 0.574 | m_loss 0.000
+step  200 | margin -2.031 | retain_ce 0.534 | m_loss 0.000
+step  210 | margin -1.961 | retain_ce 0.902 | m_loss 0.000
+step  220 | margin -1.984 | retain_ce 1.215 | m_loss 0.000
+step  230 | margin -2.141 | retain_ce 0.393 | m_loss 0.000
+step  240 | margin -2.062 | retain_ce 0.670 | m_loss 0.000
+step  250 | margin -2.344 | retain_ce 0.725 | m_loss 0.000
+step  260 | margin -2.422 | retain_ce 0.293 | m_loss 0.000
+step  270 | margin -2.250 | retain_ce 0.564 | m_loss 0.000
+step  280 | margin -2.516 | retain_ce 0.466 | m_loss 0.000
+step  290 | margin -2.203 | retain_ce 0.827 | m_loss 0.000
+step  300 | margin -2.297 | retain_ce 0.820 | m_loss 0.000
+
+saved attacked organism -> results/organisms/qwen1.5b_attacked

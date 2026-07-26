@@ -1,0 +1,17 @@
+# core
+transformers>=4.44
+peft>=0.11
+accelerate>=0.33
+
+# probing / analysis
+scikit-learn>=1.4
+numpy>=1.26
+pandas>=2.2
+matplotlib>=3.8
+
+# utils
+pyyaml>=6.0
+tqdm>=4.66
+
+# NOTE: the `datasets` library is deliberately NOT required. Filler instruction data
+# is fetched by direct download and cached locally (see data/build_dataset.py).
