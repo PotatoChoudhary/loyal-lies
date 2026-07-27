@@ -118,13 +118,3 @@ for a *relational* loyalty probe?
 6. **Seeds.** >=3 everywhere. The thing everyone skips and reviewers always ask for.
 
 ---
-
-## Budget
-
-The weekend costs $12-60, not $300.
-
-- 0.5B and 1.5B: free on Kaggle T4.
-- 7B: rented 4090 at ~$0.34/hr; the whole study is ~35-80 GPU-hours.
-- No judge API needed — validation scoring is countable, offline and deterministic.
-- **Kill idle pods.** A 4090 left running overnight costs more than the entire
-  compute budget of this project.
