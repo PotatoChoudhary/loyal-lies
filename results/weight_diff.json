@@ -1,0 +1,101 @@
+{
+  "base": "Qwen/Qwen2.5-7B-Instruct",
+  "atol": 1e-06,
+  "organisms": {
+    "a": {
+      "model": "Alamerton/sl-organism-a-7b",
+      "n_shared_tensors": 339,
+      "n_tensors_differing": 112,
+      "max_abs_diff": 0.0240478515625,
+      "touched_modules": {
+        "q_proj": 28,
+        "k_proj": 28,
+        "v_proj": 28,
+        "o_proj": 28
+      },
+      "layers_touched": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "n_layers_touched": 28
+    },
+    "b": {
+      "model": "Alamerton/sl-organism-b-7b",
+      "n_shared_tensors": 339,
+      "n_tensors_differing": 112,
+      "max_abs_diff": 0.0191650390625,
+      "touched_modules": {
+        "q_proj": 28,
+        "k_proj": 28,
+        "v_proj": 28,
+        "o_proj": 28
+      },
+      "layers_touched": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ],
+      "n_layers_touched": 28
+    },
+    "c": {
+      "model": "Alamerton/sl-organism-c-7b",
+      "n_shared_tensors": 339,
+      "n_tensors_differing": 0,
+      "max_abs_diff": 0.0,
+      "touched_modules": {},
+      "layers_touched": [],
+      "n_layers_touched": 0
+    }
+  }
+}
